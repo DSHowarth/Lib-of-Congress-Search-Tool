@@ -1,0 +1,1 @@
+// Capture search form results and redirect to search-results page
